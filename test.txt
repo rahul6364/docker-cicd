@@ -5,3 +5,5 @@ jenkins
 sonarqube
 github
 code editor
+
+linux machines
