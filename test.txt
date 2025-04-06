@@ -1,10 +1,7 @@
-html templates
+requirments
 
-for testing purpose 
-
-checking github webhooks
-ydddddddddd
-fkhgnjkgbbvkbk
-ydkddddhjknm,mmbbbbbbbbbbb
-
-knvyuck  f fkhh jhjhjvjhch
+docker 
+jenkins
+sonarqube
+github
+code editor
